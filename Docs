@@ -1,0 +1,396 @@
+# Sick Buffalo DAO (SICKB) — White Paper V. 1.0
+## 1. Introduction
+Sick Buffalo ($SICKB) is an Ethereum-native token born from meme culture but built for utility, governance, and long-term execution. It began as a joke referencing Thai internet scams—“my girlfriend’s buffalo is sick”—but has since evolved into a serious, zero-tax, community-driven project.
+No stealth launches. No VC allocations. No hype cycles. Just a token that does what it says.
+Originally launched on a now-defunct Layer 2 chain (PEPU), Sick Buffalo migrated to Ethereum after PEPU’s infrastructure proved unstable. The migration preserved the project’s ethos and allowed development to continue on a more secure and transparent blockchain.
+$SICKB is now live on Ethereum mainnet, with a Pinksale presale underway at[sickb.sale](https://sickb.sale).
+But this isn’t a nostalgia project. $SICKB is designed to:
+- 
+Power DAO governance
+
+- 
+Access internal tools and products
+
+- 
+Reward contributors and community members over time
+
+- 
+Connect crypto to real-world assets and experiences
+
+
+It’s the core asset of a project that’s serious about giving meme tokens long-term structure—and giving holders a real stake in what comes next.
+## Tokenomics
+### Token Overview
+Property
+Details
+Name
+Sick Buffalo ($SICKB)
+Chain
+Ethereum Mainnet
+Standard
+ERC-20
+Total Supply
+2,500,000,000
+Decimals
+18
+Contract
+0x8172e2Ff7009483ff98c24Bd639C8078caCED9a3
+### Roles & Utility
+- 
+Meme: Brand identity and cultural signal
+
+- 
+Utility: Required for staking, gated tools, and ecosystem access
+
+- 
+Governance: Voting power within the DAO and council processes
+
+
+### Allocation Breakdown
+Category
+%
+Tokens
+Notes
+Liquidity Pool
+40%
+1,000,000,000
+Pre Sale, 70% to LP
+Dev/Treasury
+30%
+750,000,000
+DAO multisig-controlled
+Swap Pool (Migration)
+15%
+375,000,000
+Manual swaps for legacy PEPU holders
+Staking Rewards
+7.5%
+187,500,000
+Time-based emissions
+Team (Vested)
+5%
+125,000,000
+18–24 month vesting
+Airdrops/Incentives
+2.5%
+62,500,000
+Strategic growth & engagement
+## 2. Roadmap (Ethereum Version)
+The SICKB roadmap is structured to adapt with development and community input. Progress is tracked by category, with dynamic updates as milestones are completed.
+### 1. Liquidity & Security
+- 
+✅ Liquidity added to Ethereum DEX
+
+- 
+✅ Time-Locked Liquidity Pool
+
+- 
+🔲 SICKB Buyback & Burn Model (in research)
+
+- 
+🟡 Cross-Pair Liquidity Strategy
+
+
+### 2. Smart Contracts & Infrastructure
+- 
+✅ SICKB Token Deployed on Ethereum L1
+
+- 
+🔲 Governance Contract (Snapshot + on-chain hybrid)
+
+- 
+✅ Verified Staking Contracts (ported from PEPU)
+
+- 
+🔲 Liquidity incentives & staking emissions
+
+
+### 3. Staking & Yield Mechanics
+- 
+✅ CH4 Staking retired
+
+- 
+🔲 SICKB-based staking model on Ethereum
+
+- 
+🔲 NFT utility integration into staking
+
+
+### 4. Governance & DAO
+- 
+✅ Treasury Multisig Setup
+
+- 
+✅ DAO Council Framework
+
+- 
+🔲 Community Proposal System
+
+- 
+🔲 Snapshot integration
+
+
+### 5. Trading & Utility
+- 
+✅ Trading Live on Ethereum (DEX)
+
+- 
+🟡 Revenue Sharing Strategy (Buyback, DAO rewards)
+
+- 
+🔲 Tool access gated by holdings/NFTs
+
+
+### 6. Web & Ecosystem
+- 
+✅ SICKB.io domain active
+
+- 
+🔲 Full UI/UX rebuild
+
+- 
+🔲 On-chain dashboard + tools
+
+- 
+🔲 NFT minting + access system
+
+
+### 7. Fundraising
+- 
+✅ Ethereum L1 presale launched via PinkSale
+
+- 
+🔲 Pre-sale claim contract
+
+- 
+🔲 Tiered access + NFT reward system
+
+
+### 8. Expansion
+- 
+🔲 Potential L2/sidechain for gas savings
+
+- 
+🔲 Cross-chain bridge re-evaluation
+
+- 
+🔲 Real-world asset tokenization (Buffalo Bar, etc.)
+
+
+## 3. Sick Premier League (SPL) — On-Chain Trading Competition
+The SickB Premier League (SPL) is a competitive trading league built into the SICKB ecosystem. It gamifies on-chain activity through:
+- 
+Weekly wallet performance tracking
+
+- 
+Division-based rankings (Premier League, Division 2)
+
+- 
+Real-time scoring based on volume, PnL, activity
+
+
+Season Format:
+- 
+📊 Weekly snapshots, live dashboard (sickb.io)
+
+- 
+🧠 Metrics include Buys, Sells, PnL, and holding duration
+
+- 
+🏅 Rewards in $SICKB, NFTs, Discord roles
+
+
+Status: SPL was live tested on PEPU and is scheduled to relaunch with improved tools on Ethereum, including:
+- 
+NFT badge drops
+
+- 
+Smart contract score logging
+
+- 
+DAO-approved prize pools
+
+
+## 4. Sidechain & Bridge Strategy
+After PEPU collapsed, the Sick Buffalo team paused all bridge development and transitioned to a resilient L1-first approach. Previous work included:
+- 
+Lock & Mint ERC-20 bridge functions
+
+- 
+Manual mint/burn logic on both chains
+
+- 
+Bridge feasibility testing (Remix, Hardhat)
+
+
+Findings:
+- 
+PEPU lacked true L2-to-L1 communication
+
+- 
+Future bridge development will focus on Ethereum <> Arbitrum, Base, or Optimism
+
+- 
+All future bridging contracts will be modular and DAO-controlled
+
+
+Sidechain deployments remain a long-term target for:
+- 
+Staking rewards
+
+- 
+RWA hosting
+
+- 
+Gas fee optimization
+
+
+## 5. DAO Governance Structure
+The Sick Buffalo DAO operates through a hybrid model of community votes and council oversight.
+### Governance Council (SBGC)
+- 
+1 permanent founder seat (Josh)
+
+- 
+4 elected token holder seats
+
+- 
+Annual elections, .25% token minimum to run
+
+- 
+Max 2 terms per council member
+
+
+### Voting Power
+- 
+1 vote per 10 $SICKB held
+
+- 
+Bonus votes for staking or NFT ownership (optional)
+
+- 
+Snapshot and multisig control for proposal enforcement
+
+
+### Community Overrides
+- 
+60% quorum override rule for major decisions
+
+
+### Treasury Control
+- 
+Treasury held in multisig wallet
+
+- 
+All funds distributed based on DAO-approved proposals
+
+
+## 6. Real-World Utility & Sick Buffalo Bar
+The DAO’s long-term goal includes acquiring real-world assets that benefit holders. The first step is reopening the Sick Buffalo Bar in Pattaya, Thailand.
+$SICKB holders will receive:
+- 
+Discounts on drinks, merch, and events
+
+- 
+Exclusive party access
+
+- 
+NFT-based loyalty perks
+
+- 
+Potential yield from bar profits (via DAO mechanics)
+
+
+## 7. NFT Framework & Utility Access
+NFTs play a major role in ecosystem engagement. Planned collections include:
+- 
+Meme/art NFTs
+
+- 
+Event ticketing and access passes
+
+- 
+Diamond NFTs (for locked $SICKB holders)
+
+
+All NFT drops and mechanics will:
+- 
+Be approved by the DAO
+
+- 
+Be purchasable with $SICKB
+
+- 
+Unlock tools, Discord roles, whitelist access
+
+
+## 8. SaaS Tools, Automation & Bots
+Several tools are in development:
+- 
+SICKB Automated Market Maker Bot
+
+- 
+Telegram AI Bots (ChadBot, KittyBot)
+
+- 
+NFT dashboards and contract utilities
+
+
+Some tools may require:
+- 
+Locked $SICKB
+
+- 
+Diamond NFT ownership
+
+- 
+DAO proposal approval for external use
+
+
+## 9. Grants, Partnerships & Community Bounties
+Builders can propose:
+- 
+Tools, bots, dashboards
+
+- 
+NFT drops or integrations
+
+- 
+Strategic partnerships
+
+
+DAO will allocate funds through:
+- 
+Proposal → Council review → Vote → Multisig release
+
+- 
+Milestone-based grant tranches
+
+- 
+Ongoing public bounty board
+
+
+## 10. Security & Auditing Commitments
+All code is tested before public use. We prefer audited, known-good open-source contracts when possible.
+- 
+Internal testing precedes any release
+
+- 
+Public test phases (like SPL Season 1) are labeled
+
+- 
+Audits will be done before major deployments
+
+- 
+DAO can fund bug bounty campaigns as needed
+
+
+## Conclusion
+Sick Buffalo is more than a meme—it’s a serious, self-funded effort to build real utility around a community-first token. We’ve moved away from unreliable infrastructure and embraced Ethereum Layer 1 to bring structure, trust, and long-term possibilities to a space often dominated by hype.
+$SICKB holders aren't just investors—they’re contributors, governors, and beneficiaries of a growing suite of tools, products, and real-world ventures. From governance and NFT access to trading leagues and the Pattaya bar relaunch, everything is built with the community in mind.
+The DAO structure, clean tokenomics, and roadmap are designed to evolve with feedback and growth. Whether you’re here to build, participate, or just hold the line—you’re part of the herd.
+We’re not here to follow the trend. We’re here to build the brand.
+Disclaimer
+This whitepaper  is provided for informational purposes only and does not constitute financial, investment, legal, or tax advice. Participation in the Sick Buffalo ecosystem involves significant risk, including the possible loss of all funds. Cryptocurrency markets are volatile, and past performance is not indicative of future results. Do your own research before making any decisions.
+This document is a living guide and may be revised over time. All updates and changes will require DAO Council approval until formal DAO mechanisms are established. Once community voting is active, governance proposals and updates will be subject to a transparent and decentralized voting process.
+Nothing in this white paper constitutes a solicitation to buy or sell any token or security.
